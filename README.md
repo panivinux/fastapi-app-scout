@@ -4,7 +4,7 @@
 - **Curso:** Despliegue de Aplicaciones con Docker  
 - **Proyecto:** Práctica de Docker Compose  
 - **Profesor:** Ing. Edison Naranjo (CEC-EPN)  
-- **Fecha:** 17 de Septiembre de 2025  
+- **Fecha:** 19 de Septiembre de 2025  
 
 ---
 
