@@ -92,4 +92,3 @@ jobs:
         with:
           name: docker-scout-report
           path: scout-report.json
-´´´
