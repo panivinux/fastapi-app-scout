@@ -92,7 +92,19 @@ jobs:
         with:
           name: docker-scout-report
           path: scout-report.json
-
+          
+Carpio Zaquinaula Byron Orlando 
+<img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/bc1.jpg" width="600">
+<img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/bc2.jpg" width="600">
+Villarroel Vera Milton Orlando
+<img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/mv1.jpg" width="600">
+<img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/mv2.jpg" width="600">
+Mena Segura Edison Fabián 
+<img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/em1.jpg" width="600">
+<img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/em2.jpg" width="600">
+Benavides Freire Alex Vicente
+<img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/ab1.jpg" width="600">
+<img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/ab2.jpg" width="600">
 Gallardo Nicolalde Marcelo Iván     
 <img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/mg1.jpg" width="600">
 <img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/mg2.jpg" width="600">
