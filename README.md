@@ -93,10 +93,8 @@ jobs:
           name: docker-scout-report
           path: scout-report.json
 
-| Gallardo Nicolalde Marcelo Iván      | https://github.com/panivinux/fastapi-app-scout.git                         |
-      
-
+Gallardo Nicolalde Marcelo Iván     
 <img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/mg1.jpg" width="600">
-
 <img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/mg2.jpg" width="600">
+
 
