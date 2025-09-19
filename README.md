@@ -98,4 +98,5 @@ jobs:
 
 <img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/mg1.jpg" width="600">
 
+<img src="https://github.com/panivinux/fastapi-app-scout/raw/main/img/mg2.jpg" width="600">
 
