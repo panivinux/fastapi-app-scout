@@ -92,3 +92,6 @@ jobs:
         with:
           name: docker-scout-report
           path: scout-report.json
+
+          <img width="1212" height="757" alt="image" src="https://github.com/panivinux/fastapi-app-scout/blob/main/img/mg1.jpg" />
+
