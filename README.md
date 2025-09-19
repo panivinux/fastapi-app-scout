@@ -31,7 +31,7 @@ Este proyecto implementa una aplicación **FastAPI** en GitHub y un archivo **.y
 
 ---
 
-¿Quieres que también te deje preparado un bloque con el workflow YAML de GitHub Actions para que lo agreguen directamente al repositorio? 🚀
+Archivo workflow YAML de GitHub Actions 🚀
 
 ´´´
 name: Build and Analyze Docker Image
